@@ -67,3 +67,9 @@ h3{
     color: white;
     text-align: center;
 }
+#astro{
+    width: 66px;
+    height: 66px;
+    margin-top: -65px;
+    margin-right: -65px;
+}
